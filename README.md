@@ -19,7 +19,6 @@ Currently, I'm focusing on strengthening my **Frontend and Backend fundamentals*
 ### Languages
 - C++
 - Python
-- PHP
 - HTML5
 - CSS3
 - JavaScript
