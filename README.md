@@ -59,7 +59,7 @@ A secure messaging backend built with Node.js, featuring JWT authentication, MVC
 
 🏆 Awarded **Best Team** at GDG Bootcamp.
 
-### [Portfolio Builder](https://github.com/mostafa-tarek-khalil/Portfolio-Builder) "⚙️In Progress"
+### [Portfolio Builder](https://github.com/mostafa-tarek-khalil/Portfolio-Builder) 🚧 (Currently in Development)
 A platform designed to help users create, customize, and showcase their professional portfolios.
 
 ### [Elzero HTML Assignments](https://github.com/mostafa-tarek-khalil/Elzero-HTML-Assignments-Solutions)
